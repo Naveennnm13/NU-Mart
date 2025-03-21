@@ -1,6 +1,6 @@
 # NU-Mart
 
-# 🏪 NU Mart: Connecting Huskies through Buying and Selling
+# NU Mart: Connecting Huskies through Buying and Selling
 
 
 # Project Overview
@@ -40,10 +40,14 @@ NU Mart is a secure, web-based marketplace exclusively for Northeastern Universi
   ┌──────────────────────────────────────────────┐
   │                  NU Mart                     │
   ├──────────────────────────────────────────────┤
-  │    🔐 NU Authentication (SSO + 2FA)         │
-  │    📦 Product Listings & Filters            │
-  │    💬 Secure In-App Messaging               │
-  │    🛠 Admin Moderation Tools                 │
+  │    🔐 NU Authentication (SSO + 2FA)          |
+  │
+  │    📦 Product Listings & Filters
+  │
+  │    💬 Secure In-App Messaging
+  │
+  │    🛠 Admin Moderation Tools
+  │
   │    📍 Safe Meet-up Location Suggestions     │
   ├──────────────────────────────────────────────┤
   │   Frontend: React.js / Next.js              │
@@ -75,7 +79,7 @@ The NU Mart project is structured into seven phases:
 
 📅 Estimated Project Timeline: 10–12 months:
 
-💰 Estimated Budget: $191,663.48 (includes labor, hosting, security, and marketing costs).
+Estimated Budget: $191,663.48 (includes labor, hosting, security, and marketing costs).
 
 # Future Enhancements
 - ✅ AI-powered Price Suggestions – Automatically recommend competitive prices.
