@@ -39,25 +39,25 @@ NU Mart is a secure, web-based marketplace exclusively for Northeastern Universi
 
 Here’s a simplified breakdown of the system components:
 
-NU Authentication (SSO + 2FA): Only verified NU students can access the platform.
+- NU Authentication (SSO + 2FA): Only verified NU students can access the platform.
 
-Product Listings & Filters: Users can list, browse, and search for items with filters.
+- Product Listings & Filters: Users can list, browse, and search for items with filters.
 
-In-App Messaging: Secure chat between buyers and sellers using WebSockets.
+- In-App Messaging: Secure chat between buyers and sellers using WebSockets.
 
-Admin Moderation Tools: Manage user activity, flagged content, and disputes.
+- Admin Moderation Tools: Manage user activity, flagged content, and disputes.
 
-Safe Meet-up Locations: Suggested campus zones for secure transactions.
+- Safe Meet-up Locations: Suggested campus zones for secure transactions.
 
-Frontend: Built using React.js or Next.js.
+- Frontend: Built using React.js or Next.js.
 
-Backend: Node.js with Express.js handles server-side logic.
+- Backend: Node.js with Express.js handles server-side logic.
 
-Database: PostgreSQL stores users, items, and messages.
+- Database: PostgreSQL stores users, items, and messages.
 
-Hosting: AWS/Firebase enables scalability and reliability.
+- Hosting: AWS/Firebase enables scalability and reliability.
 
-Real-Time Chat: Socket.io enables low-latency communication.
+- Real-Time Chat: Socket.io enables low-latency communication.
   
 # How It Works
 
