@@ -88,3 +88,12 @@ Estimated Budget: $191,663.48 (includes labor, hosting, security, and marketing 
 - ✅ Mobile App – Extend platform availability.
 - ✅ Community Forums – Discussion boards for buying/selling tips.
 
+
+# Team Members
+- Dishant Bafna	
+- Rishiraj Budhaale	
+- Chirag Chopda
+- Sarthak More	
+- Naveen N. N. M.	
+- Sonali Sawant
+- Bhavya Shah	
