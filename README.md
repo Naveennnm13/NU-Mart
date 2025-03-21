@@ -2,7 +2,7 @@
 
 
 # Project Overview
-NU Mart is a secure, web-based marketplace exclusively for Northeastern University students. It facilitates buying, selling, and exchanging essential items such as textbooks, electronics, furniture, and more. The platform ensures trust, safety, and ease of use by integrating NU authentication, secure messaging, and a student-only community.
+NU Mart is a Project Proposal draft for the **EMGT5220 Engineering Project Management** course, that is a detailed document showcasing the methodlogies and principles of project management proposing a secure web-based marketplace built exclusively for Northeastern University students. It facilitates buying, selling, and exchanging essential items such as textbooks, electronics, furniture, and more. The platform ensures trust, safety, and ease of use by integrating NU authentication, secure messaging, and a student-only community.
 
 # Why NU Mart?
 
