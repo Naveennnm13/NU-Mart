@@ -1,5 +1,3 @@
-# NU-Mart
-
 # NU Mart: Connecting Huskies through Buying and Selling
 
 
